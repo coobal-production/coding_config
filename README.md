@@ -3,7 +3,7 @@
 
 コーディング設定のファイル
 
-## .aditorconfig
+## .editorconfig
 
 ```
 # EditorConfig is awesome: http://EditorConfig.org
